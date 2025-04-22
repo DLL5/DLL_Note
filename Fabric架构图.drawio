@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="kj1Vbqidj4OT7pCJw0eN">
-    <mxGraphModel>
+    <mxGraphModel dx="1183" dy="763" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="75i5XGhBc6G2A9r4toG1-3" value="接口及事件（APIs，Events，SDKs）&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="390" width="560" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-5" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;网络协议（Network Protocol）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="185.15" y="640" width="554.85" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-6" value="P2P协议&lt;div&gt;P2P Protocol&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="610" width="510" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-12" value="&lt;font&gt;交易&lt;/font&gt;&lt;div&gt;&lt;font&gt;TRANSACTIONS&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-13" value="账本&lt;div&gt;LEDGER&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-14" value="&lt;font&gt;身份&lt;/font&gt;&lt;div&gt;&lt;font&gt;IDENTITY&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-15" value="&lt;font&gt;智能合约&lt;/font&gt;&lt;div&gt;&lt;font&gt;SMART CONTRACT&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-16" value="证书服务&lt;div&gt;Membership&lt;/div&gt;&lt;div&gt;services&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="420" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-17" value="区块链服务&lt;div&gt;Blockchain services&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="420" width="260" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-18" value="链码服务&lt;div&gt;Chaincode&lt;/div&gt;&lt;div&gt;Services&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="420" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-19" value="注册&lt;div&gt;Registration&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="475" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-20" value="登记&lt;div&gt;Enrollment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="540" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-21" value="分布式账本&lt;div&gt;Distributed&lt;/div&gt;&lt;div&gt;Ledger&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="475" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-22" value="背书验证&lt;div&gt;Endorsement&lt;/div&gt;&lt;div&gt;Validation&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-23" value="排序服务&lt;div&gt;Ordering&lt;/div&gt;&lt;div&gt;Service&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="475" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-24" value="账本存储&lt;div&gt;Ledger Storage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="540" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-25" value="安全容器&lt;div&gt;Secure&lt;/div&gt;&lt;div&gt;Container&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="475" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-26" value="安全注册&lt;div&gt;Secure&lt;/div&gt;&lt;div&gt;Registry&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="540" width="100" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-27" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;接口层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="325" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;核心层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="477.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="75i5XGhBc6G2A9r4toG1-30" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;网络层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="645" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
