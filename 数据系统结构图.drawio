@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
+  <diagram name="第 1 页" id="DYM3zV-vZy7oYDZHbIkN">
+    <mxGraphModel dx="2066" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6mLZ1adp00gotx1DEemW-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6mLZ1adp00gotx1DEemW-1" target="6mLZ1adp00gotx1DEemW-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-1" value="数据系统抽象接口" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6mLZ1adp00gotx1DEemW-8" target="6mLZ1adp00gotx1DEemW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6mLZ1adp00gotx1DEemW-8" target="6mLZ1adp00gotx1DEemW-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-8" value="MongoDB接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="480" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6mLZ1adp00gotx1DEemW-9" target="6mLZ1adp00gotx1DEemW-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6mLZ1adp00gotx1DEemW-9" target="6mLZ1adp00gotx1DEemW-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-9" value="IPFS接入" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="480" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-10" value="MongoDB分片节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="125" y="613" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-11" value="MongoDB分片节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="289" y="613" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-12" value="IPFS节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="613" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-13" value="IPFS节点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="635" y="613" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6mLZ1adp00gotx1DEemW-34" target="6mLZ1adp00gotx1DEemW-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="6mLZ1adp00gotx1DEemW-34" target="6mLZ1adp00gotx1DEemW-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-34" value="索引层&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="290" width="640" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-35" value="子MPT树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-36" value="子MPT树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-37" value="子MPT树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6mLZ1adp00gotx1DEemW-38" value="子MPT树" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
